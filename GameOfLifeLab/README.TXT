@@ -47,6 +47,16 @@ Artifacts to Produce:
 	reasonable and document them in a requirements document. I must review
 	your requirements document before you start the design document or test
 	plan. You may change the requirements document throughout development.
+	
+	1) My grid is 5 by 5 
+	2) The live cells look like rocks
+	3) The dead cells just don't show
+	4) Pattern 1 is shown. There are mutlipule patterns avalible. The user has to select the pattern.
+	5) The pattern run for a short amount of time. It does not run forever, it does not prompt the user for the program to continue. 
+	6) 1 second 
+	7) no
+	
+	
 * Design Document: You must do some design activity before starting
 	implementation. This may consist of a flow cart, pseudocode, or other
 	design artifact. I must review your design document before you start
@@ -66,6 +76,14 @@ Artifacts to Produce:
 	like or dislike and why? What was surprising or unexpected? What did you
 	learn? What questions do you still have? What advice would you offer next
 	year's students?
+	
+	I really liked this lab becasue we can start with a design and then the program tuns it in to something cool.
+	I felt like trying to get the next generation to show was one of my biggest problems in the program. Overall I think
+	this lab is one of my favorites. One thing I really like from the program was the fact that I could make the 
+	actor into anything I wanted, also I really liked how each pattern had its own outcome. I thing I would tell the 
+	students for next year is that they should always have gridworld documentation with them becasue it really helps to have
+	a reference guide by you when dealng with something new. One question I had was how I could implement the speed method 
+	in the program. 
 
 
 Submission:
